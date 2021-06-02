@@ -6,7 +6,7 @@ import os
 total_lines = 47768
 total_frames = 3412
 
-sw_file = open("sw1.txt", "r")
+sw_file = open("ascii_movie/spacewars.txt", "r")
 
 def get_frame():
 	frame_delay = int(sw_file.readline().replace("\n", ""))/100
