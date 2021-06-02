@@ -44,4 +44,4 @@ async def on_message(message):
 	    		await asyncio.sleep(0.5)
 	    		await msg.edit(content=frame)
 
-client.run('ODQ5NTg1Nzc0NjYzMTcyMTA3.YLdUaQ.qCSKYBoKALsvszSv7hZ5C6INLAA')
+client.run('')
